@@ -35,7 +35,4 @@ Industrial automation software programmer turned full stack developer. Zealous l
 <p align="left"> <a href="https://www.github.com/antoponselvan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/er-anto-ponselvan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@fiantop8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/antoponselvan"><img src="https://activity-graph.herokuapp.com/graph?username=antoponselvan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
