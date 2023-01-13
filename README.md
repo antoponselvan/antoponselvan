@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anto Ponselvan
 ======================================================================================================================================
 
-Software Developer
-------------------
+Software Developer / Solutions Architect (AWS)
+------------------------------------------------------
 
-As an automation software developer, I have programmed many automation products that have yielded multi-million $ benefits to manufacturing site! Recently, I have transitioned to learning full-stack programming languages (React-MongoDB, Django etc) and Devops services (AWS). Programmed and Deployed many projects which have solved many of personal pain-points I had
+Industrial automation software programmer turned full stack developer. Zealous learner of new technologies (evidenced with multiple self-initiated tech projects and certifications). Passionate about development of amazing software products with good value propositions. Sharpened critical soft-skills (project management, communication and working with large-diverse teams) by implementing big projects in mega process plants.
 
 * 🌍  I'm based in Singapore
 * ✉️  You can contact me at [anto8fip@alum.mit.edu](mailto:anto8fip@alum.mit.edu)
-* 🧠  I'm learning Django & AWS Services (Solutions Architect Associate)
+* 🧠  I'm learning Django rest frame work & DevOps (dockers, CI/CD pipeline etc)
 * 🤝  I'm open to collaborating on Software projects
 
 ### Skills
